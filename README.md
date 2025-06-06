@@ -11,6 +11,7 @@
 
 ### 🌱 Currently learning:
 - Advanced TypeScript
+- Android SDK and how to deal with that on Kotlin
 - Cloud computing (AWS, GCP)
 - DevOps systems (Jenkins, GitLab CI, GitHub Actions)
 
