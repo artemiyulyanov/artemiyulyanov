@@ -1,6 +1,8 @@
 # About Me
 
-## Hi there! 👋 I'm Artemy Ulyanov, a passionate developer with a love for creating innovative web applications and beautiful UI/UX designs.
+## Hi there! 👋 I'm Artemy Ulyanov, a passionate Full-stack developer with a love for creating innovative web applications and beautiful UI/UX designs.
+
+I am deeply in love with Kotlin and Java as well as React.js/Next.js etc. 
 
 ### 🧑‍💻 What I do:
 - Full-stack development (Ktor, Spring, React, Node.js, Express.js, etc.)
