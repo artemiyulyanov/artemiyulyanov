@@ -28,11 +28,11 @@
 - VK: [@artemiyulyanov](https://vk.com/artemiyulyanov)
 
 ### 🛠️ Technologies & Tools:
-- **Languages**: JavaScript, TypeScript, Java, Python, HTML, CSS
-- **Frameworks**: React, Next.js, Vue.js, Angular, Express.js, Node.js, Spring, Django
+- **Languages**: Java, Kotlin, JavaScript, TypeScript, HTML, CSS
+- **Frameworks**: Spring, Ktor, React, Next.js, Vue.js, Angular, Express.js, Node.js
 - **Design Tools**: Figma, Adobe Photoshop
 - **DevOps Tools**: Docker, Kubernetes, Jenkins
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
 
 ### 🌍 Connect with me:
 - [GitHub](https://github.com/artemiyulyanov)
