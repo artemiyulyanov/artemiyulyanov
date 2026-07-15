@@ -97,7 +97,7 @@ Full-stack разработчик с сильным уклоном в backend и
 
 - 📧 Email: artemiyulyanov.career@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/artemy-ulyanov-737814285  
-- 💬 Telegram: https://t.me/artemyulyanov  
+- 💬 Telegram: https://t.me/ulyanovdev  
 - 🌐 GitHub: https://github.com/artemiyulyanov  
 
 ---
